@@ -1,0 +1,10 @@
+*{
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
